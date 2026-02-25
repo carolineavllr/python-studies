@@ -7,4 +7,6 @@ filmesEData = {}
 for i in range(len(filmesFavoritos)):
     filmesEData[filmesFavoritos[i]] = datas[i]
     
-print(filmesEData)
+
+for filme, data in filmesEData.items():
+    print(f"{filme} - {data}")
