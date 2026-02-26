@@ -5,3 +5,5 @@
 - Listas, tuplas e dicionários
 - Gravação e manipulação de arquivos (.txt, .csv, .json)
 - Banco de dados (relacional e não relacional)
+- Manipulação de dados com SQL em SQLite
+- Persistência com postgreSQL e FastAPI
